@@ -10,4 +10,4 @@
 - Coming Soon 😅
 
 📬 **Let's Connect:**  
-[Instagram](https://instagram.com/lngnyntk) | [YouTube](https://youtube.com/lngnyntk) | [Website](https://lngnyntk.github.io/lngnyntk)
+[Instagram](https://instagram.com/lngnyntk) | [YouTube](https://youtube.com/lngnyntk) | [Website](https://lngnyntk.github.io/lngnyntk) | [Portofolio](https://sites.google.com/view/elang-nayantoko/home)
