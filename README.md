@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Elang Nayamtoko</h1>
+<h1 align="center">Hi 👋, I'm Elang Nayantoko</h1>
 <h3 align="center">I AM A STUDENT LIKE TO CODE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lngnyntk&label=Profile%20views&color=0e75b6&style=flat" alt="lngnyntk" /> </p>
