@@ -5,24 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lngnyntk" alt="lngnyntk" /></a> </p>
 
-- 🧑‍💻 I am in learn front-end [Making portofolio with pure html css](github.com/lngnyntk)
-
-- 🌱 I’m currently learning **Aframe, reactjs, tailwindcss, laravel, IoT**
-
-- 👨‍🏫 I am in learn Augment Reality [Making basic of Augment Reality](github.com/ar-basic)
-
-- 👨‍💻 All of my projects are available at [github.com/lngnyntk](github.com/lngnyntk)
-
-- 📝 I regularly write articles on [-](-)
-
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **elang.nayantoko@gmail.com**
-
-- 📄 Know about my experiences [-](-)
-
-- ⚡ Fun fact **I am noob**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/lngnyntk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lngnyntk" height="30" width="40" /></a>
